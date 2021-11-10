@@ -11,8 +11,6 @@ project:
       url: 'url'
     travis:
       url: 'url'
-    codeclimate:
-      url: 'url'
   members:
     member:
       name: 'string'
