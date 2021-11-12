@@ -7,8 +7,6 @@ project:
       url: 'url'
     heroku:
       url: 'url'
-    travis:
-      url: 'url'
   members:
     member:
       name: 'string'
