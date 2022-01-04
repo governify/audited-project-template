@@ -3,10 +3,8 @@ project:
   owner: 'string'
   teamId: 'string'
   identities:
-    pivotal:
-      url: 'url'
-    heroku:
-      url: 'url'
+    pivotal: 'url'
+    heroku: 'url'
   members:
     member:
       name: 'string'
