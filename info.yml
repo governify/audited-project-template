@@ -3,6 +3,7 @@ project:
   owner: 'string'
   teamId: 'string'
   identities:
+    github: 'url'
   members:
     member:
       name: 'string'
