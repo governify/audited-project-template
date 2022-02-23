@@ -3,7 +3,7 @@ project:
   owner: 'string'
   teamId: 'string'
   identities:
-    github: 'url'
+    heroku: 'url'
   members:
     member:
       name: 'string'
