@@ -4,6 +4,7 @@ project:
   teamId: 'string'
   identities:
     heroku: 'url'
+    pivotal: 'url'
   members:
     member:
       name: 'string'
